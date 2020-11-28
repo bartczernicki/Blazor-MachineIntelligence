@@ -1,5 +1,5 @@
 # Blazor-MachineIntelligence
-Centralized repo for my Blazor apps with Machine Intelligence (Statistics, Analytics, Machine Learning). This repository will coalesce all of my Machine Intelligence in a single area and point to their source code & live demo locations.
+Centralized repository of my Blazor apps with Machine Intelligence (Statistics, Analytics, Machine Learning). This repository will coalesce all of my Machine Intelligence in a single area and point to their source code & live demo locations.
 
 ## Live Demos
 •Baseball ML Workbench (.NET Core 3.x, Blazor Server): https://aka.ms/BaseballMLWorkbench  
