@@ -6,7 +6,7 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://statisticsandblazordotnetcore3.azureedge.net/  
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://statisticsandblazordotnet5.azureedge.net/  
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net/  
-•ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure App Service): https://test-blazor-mlnet.azurewebsites.net/  
+•ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure App Service): https://blazorandmlnet.azurefd.net/
 
 ## Source Code & Presentations
 •Presentation on Blazor & Machine Intellignence: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/AddingMachineIntelligenceToYourBlazorApps.pptx  
