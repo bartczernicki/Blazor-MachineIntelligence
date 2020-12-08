@@ -15,7 +15,7 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet5  
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Self-Host): https://github.com/bartczernicki/Test-Blazor-MLNet  
 
-## ML.NET - Related Projects used in above
+## ML.NET - Related Machine Learning & Baseball projects
 •Baseball Hall of Fame Models Training Job (.NET Core, ML.NET): https://github.com/bartczernicki/MLDotNet-BaseballClassification  
 •gRPC Client & Server surfacing ML.NET predictions (.NET Core, gRPC, ML.NET): https://github.com/bartczernicki/MachineIntelligence-Grpc-BaseballPredictions  
 •Azure Function surfacing ML.NET predictions (.NET Core, ML.NET): https://github.com/bartczernicki/ML-Baseball-Prediction-AzureFunction  
