@@ -3,9 +3,9 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 
 ## Live Demos
 •Baseball ML Workbench (.NET Core 3.x, Blazor Server): https://aka.ms/BaseballMLWorkbench  
-•Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://statisticsandblazordotnetcore3.azureedge.net/  
-•Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://statisticsandblazordotnet5.azureedge.net/  
-•ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net/  
+•Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://statisticsandblazordotnetcore3.azureedge.net    
+•Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://statisticsandblazordotnet5.azureedge.net  
+•ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net  
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure App Service): https://mlnetandblazor.azurefd.net  
 
 ## Source Code & Presentations
