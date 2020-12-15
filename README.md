@@ -1,5 +1,5 @@
 # Blazor-MachineIntelligence
-Centralized repository of my Blazor apps with Machine Intelligence (Statistics, Analytics, Machine Learning, Information Retrieval). This repository will coalesce all of my Machine Intelligence repos in a single area and point to their respective: presentations, source code & live demo locations.
+Centralized repository of my Blazor apps with Machine Intelligence (Statistics, Analytics, Machine Learning, AI, Information Retrieval etc.). This repository will coalesce all of my Machine Intelligence repos in a single area and point to their respective: live demo, source code, video & presentation locations.
 
 ## Live Demos
 •Baseball ML Workbench (.NET Core 3.x, Blazor Server): https://aka.ms/BaseballMLWorkbench  
@@ -8,12 +8,16 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net  
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Azure App Service): https://mlnetandblazor.azurefd.net  
 
-## Source Code & Presentations
-•Presentation on Blazor & Machine Intellignence: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/AddingMachineIntelligenceToYourBlazorApps.pptx  
+## Source Code
 •Baseball ML Workbench: https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp  
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML  
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet5  
 •ML.NET Baseball Predictions (.NET 5, Blazor WASM, Self-Host): https://github.com/bartczernicki/Test-Blazor-MLNet  
+
+## Presentations
+•Adding Machine Intelligence to your Blazor Apps: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/AddingMachineIntelligenceToYourBlazorApps.pptx  
+•Machine Learning Community Standup - Blazor WASM & ML.NET with .NET 5: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/DotNetCommunityStandup-MLNetBlazorDotNet5.pptx  
+•Virtual ML.NET Conference - Decision Analysis with ML.NET: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/VirtualMLNet-DecisionAnalysisWithMLNet.pptx  
 
 ## Videos
 •Machine Learning Community Standup - Blazor WASM & ML.NET with .NET 5: https://www.youtube.com/watch?v=HBEGPANJnr4  
