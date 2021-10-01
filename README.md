@@ -5,16 +5,17 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •Baseball ML Workbench (.NET 5.x, Blazor Server): https://aka.ms/BaseballMLWorkbench  
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://statisticsandblazordotnetcore3.azureedge.net    
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://statisticsandblazordotnet5.azureedge.net  
-•Statistical Simulations & Visuals (.NET 6 Preview 6, Blazor WASM): https://statisticsandblazordotnet6.azureedge.net  
-•ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 6 Preview 1, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net  
+•Statistical Simulations & Visuals (.NET 6 RC1, Blazor WASM): https://statisticsandblazordotnet6.azureedge.net  
 •ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 5, Blazor WASM, Azure App Service): https://mlnetandblazor.azurefd.net  
-•Sports League Simulator [IN PROGRESS] (.NET 6 Preview 3, Blazor WASM): https://sportsleaguesimulator.azureedge.net/SimulateDecade  
+•ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 6 RC1, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net  
+•Sports League Simulator [IN PROGRESS] (.NET 6 RC1, Blazor WASM): https://sportsleaguesimulator.azureedge.net/SimulateDecade  
 
 ## Source Code
 •Baseball ML Workbench: https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp  
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML  
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet5  
 •ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 5, Blazor WASM, Self-Host): https://github.com/bartczernicki/Test-Blazor-MLNet  
+•Sports League Simulator [IN PROGRESS] (.NET 6 RC1, Blazor WASM): https://github.com/bartczernicki/Simulation-SportsChampionships  
 
 ## Presentations
 •Adding Machine Intelligence to your Blazor Apps: https://github.com/bartczernicki/ArtificialIntelligence-Presentations/blob/master/AddingMachineIntelligenceToYourBlazorApps.pptx  
