@@ -2,8 +2,8 @@
 Centralized repository of my Blazor apps with Machine Intelligence (Statistics, Analytics, Machine Learning, AI, Information Retrieval etc.). This repository will coalesce all of my Machine Intelligence repos in a single area and point to their respective: live demo, source code, video & presentation locations.
 
 ## Live Demos
-•Baseball ML Workbench (.NET 5.x, Blazor Server, SignalR, Azure Front Door): https://aka.ms/BaseballMLWorkbench  
-•Baseball ML Workbench (.NET 5.x, Blazor Server, Azure Container Instances): http://baseballmachinelearningworkbench.eastus2.azurecontainer.io/  
+•Baseball ML Workbench (.NET 5.x, Blazor Server, SignalR, Azure Front Door): https://bit.ly/BaseballMLWorkbench  
+•Baseball ML Workbench (.NET 5.x, Blazor Server, Azure Container Instances): https://bit.ly/BaseballMLWorkbenchContainer  
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM, Azure Static Website): https://statisticsandblazordotnetcore3.azureedge.net    
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM, Azure Static Website): https://statisticsandblazordotnet5.azureedge.net  
 •Statistical Simulations & Visuals (.NET 6 RC1, Blazor WASM, Azure Static Website): https://statisticsandblazordotnet6.azureedge.net  
