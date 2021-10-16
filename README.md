@@ -15,7 +15,7 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •Baseball ML Workbench: https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp  
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML  
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet5  
-•Statistical Simulations & Visuals (.NET 6 RC2, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet6  
+•Statistical Simulations & Visuals (.NET 6 RC 2, Blazor WASM): https://github.com/bartczernicki/Test-Blazor-WebAssembly-StatisticsAndML-DotNet6  
 •ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 6 RC2, Blazor WASM, Self-Host): https://github.com/bartczernicki/Test-Blazor-MLNet-WASMHost   
 •Sports League Simulator [IN PROGRESS] (.NET 6 RC2, Blazor WASM): https://github.com/bartczernicki/Simulation-SportsChampionships  
 
