@@ -7,7 +7,6 @@ Centralized repository of my Blazor apps with Machine Intelligence (Statistics, 
 •Statistical Simulations & Visuals (.NET Core 3.x, Blazor WASM, Azure Static Website): https://statisticsandblazordotnetcore3.azureedge.net    
 •Statistical Simulations & Visuals (.NET 5, Blazor WASM, Azure Static Website): https://statisticsandblazordotnet5.azureedge.net  
 •Statistical Simulations & Visuals (.NET 6, Blazor WASM, Azure Static Website): https://statisticsandblazordotnet6.azureedge.net  
-•ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 5, Blazor WASM, Azure App Service): https://mlnetandblazor.azurefd.net  
 •ML.NET Baseball Predictions & Lucene Information Retrieval (.NET 6, Blazor WASM, Azure Static Website): https://mlnetandblazor.azureedge.net  
 •Sports League Simulator [IN PROGRESS] (.NET 6, Blazor WASM, Azure Static Website): https://sportsleaguesimulator.azureedge.net/SimulateDecade  
 
